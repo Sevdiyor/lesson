@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>My Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<header>
+    <div>
+        <img src="img/animals.jpg" alt="animal" width="1350">
+    </div>
+</header>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 col-xs-6">
+            <p>
+                <img src="img/dog4.jpg" alt="dogs and girl" height="150">
+            </p>
+            <p>
+                <a href="#">test</a>
+            </p>
+            <p>
+                test
+            </p>
+        </div>
+        <div class="col-md-3 col-xs-6">
+            <p>
+                <img src="img/sick-puppy.jpg" alt="poor sick puppy" height="150">
+            </p>
+            <p>
+                <a href="#">help the thick puppy</a>
+            </p>
+            <p>
+                yiuyr kjfhkjsdhk gfksgfh yruyeru fahdktufc jshdjd rieurirui jhjhjcnbh jhdjdhfjfh 8f9s8f89s7fdf dkgf jdhfksdhkf dghs hghgd  shdghjsdg jgjgsdj jhdj vdjafd uifisy
+            </p>
+        </div>
+            <div class="col-md-3 col-xs-6">
+                <p>
+                    <img src="img/jumbotron.jpg" alt="best class" height="150">
+                </p>
+                <p>
+                    <a href="#">there jumbotron</a>
+                </p>
+                <p>
+                    Jumbotron is very fine class. So dlsjdl ksudhihdi usdhuhd hjhjhcjxch hxcjjhc udyudyvxb vxbx bvvdbn mxc,ncdbc ;l,m, yiuyr kjfhkjsdhk gfksgfh yruyeru fahdktufc jshdjd rieurirui jhjhjcnbh jhdjdhfjfh 8f9s8f89s7fdf dkgf jdhfksdhkf dghs hghgd  shdghjsdg jgjgsdj jhdj vdjafd uifisy
+                </p>
+            </div>
+            <div class="col-md-3 col-xs-6">
+                <p>
+                    <img src="img/chase.jpg" alt="chase" height="150">
+                </p>
+                <p>
+                    <a href="#">help the thick puppy</a>
+                </p>
+                <p>
+                    There is imagen a nurse and a puppy. asghsg bshbsh hagshgshs agsyats ytsysaty bvsgfas atywt yiuyr kjfhkjsdhk gfksgfh yruyeru fahdktufc jshdjd rieurirui jhjhjcnbh jhdjdhfjfh 8f9s8f89s7fdf dkgf jdhfksdhkf dghs hghgd  shdghjsdg jgjgsdj jhdj vdjafd uifisy
+                </p>
+            </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-3 col-xs-6">
+            <p>
+                <img src="img/dog4.jpg" alt="dogs and girl" height="150">
+            </p>
+            <p>
+                <a href="#">test</a>
+            </p>
+            <p>
+                test
+            </p>
+        </div>
+        <div class="col-md-3 col-xs-6">
+            <p>
+                <img src="img/sick-puppy.jpg" alt="poor sick puppy" height="150">
+            </p>
+            <p>
+                <a href="#">help the thick puppy</a>
+            </p>
+            <p>
+                yiuyr kjfhkjsdhk gfksgfh yruyeru fahdktufc jshdjd rieurirui jhjhjcnbh jhdjdhfjfh 8f9s8f89s7fdf dkgf jdhfksdhkf dghs hghgd  shdghjsdg jgjgsdj jhdj vdjafd uifisy
+            </p>
+        </div>
+        <div class="col-md-3 col-xs-6">
+            <p>
+                <img src="img/jumbotron.jpg" alt="best class" height="150">
+            </p>
+            <p>
+                <a href="#">there jumbotron</a>
+            </p>
+            <p>
+                Jumbotron is very fine class. So dlsjdl ksudhihdi usdhuhd hjhjhcjxch hxcjjhc udyudyvxb vxbx bvvdbn mxc,ncdbc ;l,m, yiuyr kjfhkjsdhk gfksgfh yruyeru fahdktufc jshdjd rieurirui jhjhjcnbh jhdjdhfjfh 8f9s8f89s7fdf dkgf jdhfksdhkf dghs hghgd  shdghjsdg jgjgsdj jhdj vdjafd uifisy
+            </p>
+        </div>
+        <div class="col-md-3 col-xs-6">
+            <p>
+                <img src="img/chase.jpg" alt="chase" height="150">
+            </p>
+            <p>
+                <a href="#">help the thick puppy</a>
+            </p>
+            <p>
+                There is imagen a nurse and a puppy. asghsg bshbsh hagshgshs agsyats ytsysaty bvsgfas atywt yiuyr kjfhkjsdhk gfksgfh yruyeru fahdktufc jshdjd rieurirui jhjhjcnbh jhdjdhfjfh 8f9s8f89s7fdf dkgf jdhfksdhkf dghs hghgd  shdghjsdg jgjgsdj jhdj vdjafd uifisy
+            </p>
+        </div>
+
+    </div>
+</div>
+</body>
