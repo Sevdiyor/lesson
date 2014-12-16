@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>My Game Site</title>
+
+    <link rel="stylesheet" type="text/css" href="resources/bootstrap/css/bootstrap.min.css">
+    <script src="resources/bootstrap/js/jquery.min.js"></script>
+    <script src="resources/bootstrap/js/bootstrap.min.js"></script>
+    <style type="text/css">
+        .haker{
+            margin: 15px;
+        }
+        .form-horizontal .control-label{
+            padding-top: 7px;
+
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+            <!-- Navigation -->
+        <div class="col-md-1 col-sm-1"></div>
+        <div class="col-md-9 col-sm-9">
+            <nav class="navbar navbar-inverse" role="navigation">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">Game Site</a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="browse.html">Browse Games</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
+                        </ul>
+                        <form class="navbar-form navbar-right" role="search">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search">
+                            </div>
+                            <button type="submit" class="btn btn-primary">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+           <!--boshlanishi-->
+            <br>
+            <div class="row">
+                <div class="col-lg-9">
+                    <h1>Get in Touch!</h1>
+                    <p>
+                       We'd love to hear from you. You can either reach out to us as a whole
+                        and one of our awesome team members will get back to you, or if you
+                        have a specific question reach out to one of our staff. We love getting
+                        email all day all day.
+                    </p>
+                    <div class="haker">
+                        <form class="form-horizontal">
+                            <div class="row">
+                                <div class="form-group">
+                                    <label class="control-label col-xs-2" style="text-align: left">Your Name</label>
+                                    <div class="col-xs-10">
+                                        <input type="text" class="form-control"
+                                               placeholder="Your Name">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <label for="inputEmail" class="control-label col-xs-2" style="text-align: left">Your Email</label>
+                                    <div class="col-xs-10">
+                                        <input type="email" class="form-control" id="inputEmail"
+                                               placeholder="Your Email">
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <h4>
+                        Map
+                    </h4>
+                    <img src="resources/images/1.jpg" style="width: 100%">
+                    <br>
+                    <br>
+                    <h4 style="color: #269abc">Wiew Map</h4>
+                    <a href="#" style="color: #0f0f0f">Address Line 1.</a>
+                    <br>
+                    <a href="#" style="color: #0f0f0f">Address Line 1.</a>
+                </div>
+            </div>
+            <hr>
+            <h1 style="text-align: center">
+                IMAGE GALLERY
+            </h1>
+            <hr>
+            <div class="row">
+                <div class="col-lg-2">
+
+                </div>
+                <div class="col-lg-8">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a href="#" class="thumbnail">
+                                <img src="resources/images/6.jpg" alt="...">
+                            </a>
+                        </div>
+
+                        <div class="col-md-3">
+                            <a href="#" class="thumbnail">
+                                <img src="resources/images/10.jpg" alt="...">
+                            </a>
+                        </div>
+
+                        <div class="col-md-3">
+                            <a href="#" class="thumbnail">
+                                <img src="resources/images/8.jpg" alt="...">
+                            </a>
+                        </div>
+
+                        <div class="col-md-3">
+                            <a href="#" class="thumbnail">
+                                <img src="resources/images/9.jpg" alt="...">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-2">
+
+                    </div>
+                </div>
+            </div>
+            <hr>
+
+            <footer>
+                <div class="row">
+                    <div class="col-md-5">
+                        <p>© Copyright no one at all. Go to town.</p>
+                    </div>
+                    <div class="col-md-7">
+                        <ul class="nav nav-pills pull-right">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="browse.html">Browse Games</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+            </div>
+            <div class="col-md-1 col-sm-1"></div>
+        </div>
+    </div>
+</body>
+</html>
