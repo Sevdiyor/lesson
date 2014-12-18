@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>My Game Site</title>
+    <title>About us</title>
 
     <link rel="stylesheet" type="text/css" href="resources/bootstrap/css/bootstrap.min.css">
     <script src="resources/bootstrap/js/jquery.min.js"></script>
@@ -24,7 +24,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#">Game Site</a>
+                        <a class="navbar-brand" href="index.html">Game Site</a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -47,6 +47,7 @@
            <!--boshlanishi-->
             <H1 style="text-align: center">ABOUT US</H1>
             <hr>
+            <!--rasm i matn-->
             <div class="row">
                 <div class="col-lg-6">
                     <img src="resources/images/10.jpg" style="width: 100%">
@@ -66,14 +67,11 @@
                 </div>
             </div>
             <hr>
-            <h1 style="text-align: center">
-                IMAGE GALLERY
-            </h1>
+            <h1 style="text-align: center">IMAGE GALLERY</h1>
             <hr>
+            <!--4 ta rasmcha ucun-->
             <div class="row">
-                <div class="col-lg-2">
-
-                </div>
+                <div class="col-lg-2"></div>
                 <div class="col-lg-8">
                     <div class="row">
                         <div class="col-md-3">
@@ -123,7 +121,6 @@
                 </div>
             </footer>
             </div>
-            <div class="col-md-1 col-sm-1"></div>
         </div>
     </div>
 </body>
