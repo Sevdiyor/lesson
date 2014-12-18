@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>My Game Site</title>
+    <title>Contact us</title>
 
     <link rel="stylesheet" type="text/css" href="resources/bootstrap/css/bootstrap.min.css">
     <script src="resources/bootstrap/js/jquery.min.js"></script>
@@ -33,7 +33,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#">Game Site</a>
+                        <a class="navbar-brand" href="index.html">Game Site</a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -56,6 +56,7 @@
            <!--boshlanishi-->
             <br>
             <div class="row">
+            <!--Mapni yonboshi!-->
                 <div class="col-lg-9">
                     <h1>Get in Touch!</h1>
                     <p>
@@ -68,9 +69,9 @@
                         <form class="form-horizontal">
                             <div class="row">
                                 <div class="form-group">
-                                    <label class="control-label col-xs-2" style="text-align: left">Your Name</label>
+                                    <label class="control-label col-xs-2" style="text-align: left" for="name">Your Name</label>
                                     <div class="col-xs-10">
-                                        <input type="text" class="form-control"
+                                        <input type="text" class="form-control" id="name"
                                                placeholder="Your Name">
                                     </div>
                                 </div>
@@ -79,15 +80,22 @@
                                 <div class="form-group">
                                     <label for="inputEmail" class="control-label col-xs-2" style="text-align: left">Your Email</label>
                                     <div class="col-xs-10">
-                                        <input type="email" class="form-control" id="inputEmail"
-                                               placeholder="Your Email">
+                                        <input type="email" class="form-control" id="inputEmail" placeholder="Your Email">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <label for="textarea" class="control-label col-xs-2" style="text-align: left">What's up</label>
+                                    <div class="col-xs-10">
+                                        <textarea class="form-control" id="textarea"></textarea>
                                     </div>
                                 </div>
                             </div>
                         </form>
                     </div>
                 </div>
-
+            <!--map-->
                 <div class="col-lg-3">
                     <h4>
                         Map
@@ -102,47 +110,6 @@
                 </div>
             </div>
             <hr>
-            <h1 style="text-align: center">
-                IMAGE GALLERY
-            </h1>
-            <hr>
-            <div class="row">
-                <div class="col-lg-2">
-
-                </div>
-                <div class="col-lg-8">
-                    <div class="row">
-                        <div class="col-md-3">
-                            <a href="#" class="thumbnail">
-                                <img src="resources/images/6.jpg" alt="...">
-                            </a>
-                        </div>
-
-                        <div class="col-md-3">
-                            <a href="#" class="thumbnail">
-                                <img src="resources/images/10.jpg" alt="...">
-                            </a>
-                        </div>
-
-                        <div class="col-md-3">
-                            <a href="#" class="thumbnail">
-                                <img src="resources/images/8.jpg" alt="...">
-                            </a>
-                        </div>
-
-                        <div class="col-md-3">
-                            <a href="#" class="thumbnail">
-                                <img src="resources/images/9.jpg" alt="...">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-2">
-
-                    </div>
-                </div>
-            </div>
-            <hr>
-
             <footer>
                 <div class="row">
                     <div class="col-md-5">
@@ -159,8 +126,7 @@
                 </div>
             </footer>
             </div>
-            <div class="col-md-1 col-sm-1"></div>
-        </div>
-    </div>
+   </div>
+</div>
 </body>
 </html>
