@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>sample_3</title>
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-uppercase text-center">planets list</h1>
+        <div class="row">
+            <div class="col-md-3">
+                <img src="lib/images/mercury.jpg"><h3 class="text-warning">Mercury</h3>
+            </div>
+
+            <div class="col-md-3">
+                <img src="lib/images/jupiter.jpg"><h3 class="text-info">Jupiter</h3>
+            </div>
+
+            <div class="col-md-3">
+                <img src="lib/images/earth.jpg"><h3 class="text-success">Earth</h3>
+            </div>
+
+            <div class="col-md-3">
+                <img src="lib/images/pluto.jpg"><h3 class="text-primary">Pluto</h3>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
