@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>simple_4</title>
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Planets list</h1>
+        <hr>
+        <div class="row">
+            <div class="col-sm-3">
+                <h3>Image</h3>
+            </div>
+            <div class="col-sm-2 col-sm-offset-2">
+                <h3>Name</h3>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1">
+                <h3>Action</h3>
+            </div>
+        </div>
+
+        <hr>
+        <div class="row">
+            <div class="col-sm-3">
+                <img src="lib/images/mercury.jpg" height="200px" width="200px">
+            </div>
+            <div class="col-sm-2 col-sm-offset-2">
+                <h4>Mercury</h4>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1">
+                <button class="btn btn-success">Edit</button>
+                <button class="btn btn-danger">Delete</button>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-sm-3 ">
+                <img src="lib/images/jupiter.jpg" height="200px">
+            </div>
+            <div class="col-sm-2 col-sm-offset-2">
+                <h4>Jupiter</h4>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1">
+                <button class="btn btn-success">Edit</button>
+                <button class="btn btn-danger">Delete</button>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-sm-3">
+                <img src="lib/images/earth.jpg" height="200px">
+            </div>
+            <div class="col-sm-2 col-sm-offset-2">
+                <h4>Earth</h4>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1">
+                <button class="btn btn-success">Edit</button>
+                <button class="btn btn-danger">Delete</button>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-sm-3">
+                <img src="lib/images/pluto.jpg" height="200px">
+            </div>
+            <div class="col-sm-2 col-sm-offset-2">
+                <h4>Pluto</h4>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1">
+                <button class="btn btn-success">Edit</button>
+                <button class="btn btn-danger">Delete</button>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
