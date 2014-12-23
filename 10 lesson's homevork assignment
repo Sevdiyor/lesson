@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assigment</title>
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <style type="text/css">
+        .hacker{
+            margin: -20px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <br>
+    <button class="btn btn-success">Add random items</button>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Birth date</th>
+            <th>Balance</th>
+        </tr>
+
+        </thead>
+
+
+        <tbody>
+        <tr>
+            <td>Paloncha</td>
+            <td>fhjdf</td>
+            <td>45.45.12</td>
+            <td>
+                <button class="btn btn-danger">
+                    <div class="glyphicon glyphicon-remove-sign"></div>
+                </button>
+            </td>
+        </tr>
+        <tr>
+            <td>Blandine</td>
+            <td>lkdjlf</td>
+            <td>96.38.38</td>
+            <td>
+                <button class="btn btn-danger">
+                    <div class="glyphicon glyphicon-remove-sign"></div>
+                </button>
+            </td>
+        </tr>
+        <tr>
+            <td>Blandine</td>
+            <td>London</td>
+            <td>45.12.94</td>
+            <td>
+                <button class="btn btn-danger">
+                    <div class="glyphicon glyphicon-remove-sign"></div>
+                </button>
+            </td>
+        </tr>
+        <tr>
+            <td>Paloncha</td>
+            <td>fhjdf</td>
+            <td>45.45.12</td>
+            <td>
+                <button class="btn btn-danger">
+                    <div class="glyphicon glyphicon-remove-sign"></div>
+                </button>
+            </td>
+        </tr>
+        <tr>
+            <td>Pistoncha</td>
+            <td>Gkxjkjk</td>
+            <td>66.38.38</td>
+            <td>
+                <button class="btn btn-danger">
+                    <div class="glyphicon glyphicon-remove-sign"></div>
+                </button>
+            </td>
+        </tr>
+        </tbody>
+
+    </table>
+    <table class="hacker">
+        <tbody class="form-group">
+        <label for="search" class="sr-only">search</label>
+        <input class="form-control" id="search" type="text" placeholder="Global search . . .">
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
