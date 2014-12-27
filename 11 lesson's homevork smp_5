@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>simple_5</title>
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1>Bootstrap table</h1>
+    <hr>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>User name</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>@mdo</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Sevdiyor</td>
+            <td>Hayitov</td>
+            <td>@hacker_3838</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Yusupov</td>
+            <td>G'iyos</td>
+            <td>@sinus</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Jacob</td>
+            <td>Thomton</td>
+            <td>@fat</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
