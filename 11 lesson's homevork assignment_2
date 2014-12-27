@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>assignment_2</title>
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body style="background-color: #b2dba1">
+<div class="container">
+    <h1 class="text-center" style="color: darkblue">What We do?</h1>
+    <brr>
+        <br>
+        <div class="row">
+            <div class="col-sm-6">
+                <img class="center-block"  src="lib/images/cup.png">
+                <h2 style="color: darkblue">Design</h2>
+                <p style="color: darkblue">
+                    hkzdh jhdjd eyu gdysgd hdths dsdyv dgyasgduyasgd vsdgfsdhg vdyfshdf vdhgsfdt jyetirut hjohj,v svhd sdsgdfsd sfhfsfsdg sd
+                    hkzdh jhdjd eyu gdysgd hdths dsdyv dgyasgduyasgd vsdgfsdhg vdyfshdf vdhgsfdt jyetirut hjohj,v svhd sdsgdfsd sfhfsfsdg sd
+                    hkzdh jhdjd eyu gdysgd hdths dsdyv dgyasgduyasgd vsdgfsdhg vdyfshdf vdhgsfdt jyetirut hjohj,v svhd sdsgdfsd sfhfsfsdg sd
+                    hkzdh jhdjd eyu gdysgd hdths dsdyv dgyasgduyasgd vsdgfsdhg vdyfshdf vdhgsfdt jyetirut hjohj,v svhd sdsgdfsd sfhfsfsdg sd
+                </p>
+            </div>
+            <div class="col-sm-6">
+                <img class="center-block" src="lib/images/tablet.png">
+                <h2 style="color: darkblue">Digital</h2>
+                <p style="color: darkblue">
+                    hkzdh jhdjd eyu gdysgd hdths dsdyv dgyasgduyasgd vsdgfsdhg vdyfshdf vdhgsfdt jyetirut hjohj,v svhd sdsgdfsd sfhfsfsdg sd
+                    hkzdh jhdjd eyu gdysgd hdths dsdyv dgyasgduyasgd vsdgfsdhg vdyfshdf vdhgsfdt jyetirut hjohj,v svhd sdsgdfsd sfhfsfsdg sd
+                    hkzdh jhdjd eyu gdysgd hdths dsdyv dgyasgduyasgd vsdgfsdhg vdyfshdf vdhgsfdt jyetirut hjohj,v svhd sdsgdfsd sfhfsfsdg sd
+                    hkzdh jhdjd eyu gdysgd hdths dsdyv dgyasgduyasgd vsdgfsdhg vdyfshdf vdhgsfdt jyetirut hjohj,v svhd sdsgdfsd sfhfsfsdg sd
+                </p>
+            </div>
+        </div>
+        <br>
+        <button class="btn btn-success center-block btn-lg">Find out more</button>
+</div>
+</body>
+</html>
