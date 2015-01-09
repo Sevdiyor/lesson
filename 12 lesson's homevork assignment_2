@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>assignment_2</title>
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css"/>
+</head>
+<body>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-target="#collapse_menu" data-toggle="collapse" >
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <div class="row collapse navbar-collapse" id="collapse_menu">
+        <div class="col-xs-offset-1 navbar-brand" a href="#"> Bootply</div>
+        <ul class="nav navbar-nav">
+            <li class="#"><a href="#">Get Started</a></li>
+            <li><a href="#">Edit</a></li>
+            <li><a href="#">Visualize</a></li>
+            <li><a href="#">Prototype</a></li>
+        </ul>
+    </div>
+
+</nav>
+<div class="container">
+    <div id="content" class="row">
+        <div class="col-md-3">
+            <ul class="nav navbar-default well">
+                <li><a href="#">Section 1</a></li>
+                <li><a href="#">Section 2</a></li>
+                <li><a href="#">Section 3</a></li>
+                <li><a href="#">Section 4</a></li>
+            </ul>
+        </div>
+        <div class="col-md-9">
+            <h1>Shrink Width otama kegan bo'z tuproq</h1>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus atque deleniti ex excepturi,
+                harum id, illo itaque magni modi molestias non odio odit placeat quibusdam quidem quis repellat
+                repellendus tenetur vitae! A ab adipisci aliquam animi asperiores at deleniti ducimus ea facilis
+                illo, ipsa iste laborum maxime minus necessitatibus nemo neque nesciunt nobis, obcaecati odit optio
+                perferendis quas quasi quia quibusdam quo rem sed soluta sunt ullam vel vitae voluptate
+                voluptatibus? Ex exercitationem fugiat laudantium perferendis quaerat quia voluptatum.</p>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum fugiat hic magnam mollitia possimus
+                quisquam ratione reiciendis sequi? Accusamus ducimus hic illum molestiae mollitia nesciunt quod
+                suscipit! Ab doloremque ducimus, hic inventore nemo quibusdam quis repellat voluptates. Accusamus
+                architecto dolore eum facere natus necessitatibus qui. Cum dicta expedita, id labore quis reiciendis
+                velit! Animi at autem beatae corporis doloribus ducimus impedit laudantium magni nemo odit, placeat,
+                quidem, rem vero voluptates!</p>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem ipsum perspiciatis qui quos,
+                voluptatum. Assumenda commodi dolores esse iusto magni nulla quod sapiente. Debitis, deserunt fugit
+                hic illum impedit perspiciatis quas repudiandae vitae. Consectetur, dolores impedit itaque odit qui
+                rerum voluptas voluptatum. Asperiores aut ducimus fugit natus quos! Architecto commodi consectetur
+                error maiores optio quod repudiandae? Fugit, ipsam iste nobis perferendis porro possimus unde!
+                Deleniti ea non quibusdam quis quisquam! Eveniet fugiat in suscipit tempora vitae? Accusamus, cum,
+                ea eligendi laudantium obcaecati quae quam quasi sint ullam ut, vitae?</p>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus atque consequuntur dignissimos
+                error exercitationem nam nesciunt, tempora? Ab at culpa delectus dignissimos, dolorem facilis harum
+                inventore iure magnam, minima necessitatibus nobis possimus praesentium provident quidem ratione
+                reiciendis reprehenderit sequi tenetur ullam. Accusamus consequatur delectus eaque excepturi
+                expedita facilis nesciunt nulla sit. Ad commodi cumque debitis deleniti deserunt dolores ea eveniet
+                fuga harum inventore laudantium minima minus mollitia nam neque nesciunt nihil nisi pariatur
+                possimus provident quia ratione reiciendis rem, repudiandae sint soluta tempore, ut veniam voluptas
+                voluptates. Architecto assumenda aut beatae consectetur, cupiditate distinctio dolores eaque enim
+                esse illo ipsam molestiae, nihil nisi nulla obcaecati possimus quaerat quidem, quos suscipit
+                temporibus. Dolorem hic laudantium nisi ut. At natus quos ullam?</p>
+        </div>
+
+    </div>
+</div>
+</body>
+</html>
